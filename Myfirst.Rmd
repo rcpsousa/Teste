@@ -2,7 +2,7 @@
 title: "My First RMarkdown"
 author: "Rita Sousa"
 date: "`r format(Sys.time(),'%e %B %Y')`"
-output: html_notebook
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
